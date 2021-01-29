@@ -1,9 +1,9 @@
 ---
-title: /
+title: /home
 layout: home
-permalink: /
+permalink: /home/
 ---
 
-# Welcome
+# Computational Working Group
 
-Bla bla bla bla. Bla bla bla bla bla bla bla bla.
+Upcoming meetings
