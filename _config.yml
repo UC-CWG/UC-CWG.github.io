@@ -1,10 +1,9 @@
-title: 'UC-CWG.github.io'
-description: "A jekyll theme inspired by linux consoles for hackers, developers and script kiddies."
+title: 'Computational Working Group'
+description: "University of Chicago"
 url: "UC-CWG.github.io"
 
 header_pages:
   - index.md
-  - peter.md
   - about.md
   - contact.md
 
