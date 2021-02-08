@@ -8,7 +8,7 @@ permalink: /about/
 
 A gathering of people sharing tutorial, tools, and tricks on everything computation. 
 
-Sign up [here](https://docs.google.com/spreadsheets/d/1CjY0zKWJtZf6tPOxlQlO9B4Wt_6GKlIO4xUQ0ki6cDw/edit?usp=sharing)
+Sign up [here](https://docs.google.com/spreadsheets/d/1CjY0zKWJtZf6tPOxlQlO9B4Wt_6GKlIO4xUQ0ki6cDw/edit?usp=sharing).
 
 ## About this website
 
