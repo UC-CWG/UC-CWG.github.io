@@ -11,7 +11,7 @@ Maya Van Nuys and Noah Schouela
 
 ## Tutorial
 
-https://github.com/mayamarie4897/geospatial-intro
+[https://github.com/mayamarie4897/geospatial-intro](https://github.com/mayamarie4897/geospatial-intro)
 
 ## Pre-reqs
 
