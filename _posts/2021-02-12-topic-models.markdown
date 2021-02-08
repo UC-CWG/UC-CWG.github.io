@@ -11,8 +11,8 @@ Zhenya Olimpieva
 
 ## Tutorial
 
-Coming soon
+Coming soon.
 
 ## Pre-reqs
 
-Coming soon
+Coming soon.
