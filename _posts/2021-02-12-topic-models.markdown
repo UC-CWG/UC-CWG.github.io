@@ -11,7 +11,7 @@ Zhenya Olimpieva
 
 ## Tutorial
 
-https://github.com/eolimp/IntroTopicModeling.
+[https://github.com/eolimp/IntroTopicModeling](https://github.com/eolimp/IntroTopicModeling) 
 
 ## Pre-reqs
 
