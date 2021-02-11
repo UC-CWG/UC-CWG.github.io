@@ -11,8 +11,8 @@ Zhenya Olimpieva
 
 ## Tutorial
 
-Coming soon.
+https://github.com/eolimp/IntroTopicModeling.
 
 ## Pre-reqs
 
-Coming soon.
+None.
