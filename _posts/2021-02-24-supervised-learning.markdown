@@ -11,8 +11,8 @@ Pete Cuppernull
 
 ## Tutorial
 
-Coming soon.
+[https://github.com/pcuppernull/supervised-ml-tutorial](https://github.com/pcuppernull/supervised-ml-tutorial) 
 
 ## Pre-reqs
 
-Coming soon.
+None.
