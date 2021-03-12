@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Replicating Stata Analyses in R"
+date:   2021-03-12
+categories:
+---
+
+## Speakers
+
+Megan Maxwell
+
+## Tutorial
+
+Coming soon
+
+## Pre-reqs
+None
