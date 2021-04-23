@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Tutorial on Shiny in R"
+date:   2021-04-23
+categories:
+---
+
+## Speakers
+
+Ipek Cinar
+
+## Tutorial
+
+[https://github.com/ipekcinar/shiny-demo-tutorial](https://github.com/ipekcinar/shiny-demo-tutorial)
+
+## Pre-reqs
+None
