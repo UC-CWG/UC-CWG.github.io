@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Intro to tidymodels"
-date:   2021-01-28
+date:   2021-05-21
 categories:
 ---
 
